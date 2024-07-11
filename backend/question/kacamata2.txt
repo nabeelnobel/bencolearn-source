@@ -1,0 +1,23 @@
+question. Berikut merupakan ciri khas burung kacamata enggano kecuali…
+a. panjang ukurannya kurang lebih 11cm; false 
+b. memiliki tubuh yang kecil; false 
+c. panjang tubuhnya berkisar antara 10 – 15 cm; true
+d. Memiliki bulu berwarna zaitun; false
+
+question. Pada bagian Dada burung Kacamata Enggano berwarna…
+a. Kuning; true
+b. Merah; false 
+c. Hijau; false 
+d. putih; false 
+
+question. Pada bagian iris burung Kacamata enggano berwarna
+a. Hitam; false 
+b. biru; false 
+c. merah; false 
+d. cokelat; true
+
+question. Burung kacamata Enggano mirip dengan burung kacamata…
+A. Zosterops palpebrosus; true
+B. Zosterops abyssinicus; false 
+C. Zosterops borbonicus; false 
+D. Zosterops nehrkorni; false

@@ -1,0 +1,29 @@
+question. Apa itu bagar hiu?
+A. Oalahan makanan daging sapi yang dicampur rempah dan santan; false
+B. Oalahan makanan daging ikan air tawar yang di asap; false
+C. Oalahan daging ayam yang dengan rempah yang gurih dan pedas; false
+D. Oalahan daging hiu yang dimasak seperti rendang; true
+
+question. Berikut ini Faktor penghambat dalam membuat bagar hiu, kecuali
+A. keterbatasan bahan utama hidangan ini sulit ditemui; false 
+B. status ikan Hiu yang merupakan hewan yang dilindungi; false
+C. Bahan utama yang mudah di dapat; true
+D. Tidak semua hiu dapat di olah menjadi bagar hiu; false
+
+question. Penangkapan ikan hiu harus mengikuti filosofi kearifan lokal yaitu?
+A. Semua jenis hiu boleh ditangkap; false
+B. Hanya hiu jantan yang boleh ditangkap; true
+C. Hanya hiu betina yang boleh ditangkap; false
+D. Hanya anak hiu yg boleh di tangkap; false
+
+question. 2 jenis hiu yang bisa diolah menjadi bagar hiu, yaitu?
+A. Hiu punai dan hiu tanduk; true
+B. Hiu martil dan hiu putih; false
+C. Hiu goblin dan hiu lemon; false
+D. Hiu banteng dan hiu harimau; false
+
+question. Bagaimana cara menghilangkan bau amis pada daging hiu?
+A. Merendam daging selama 2 hari; false
+B. Marinasi daging hiu menggunakan jeruk nipis dan merebusnya hingga empuk; true
+C. Membalurkan daging dengan minyak kelapa sawit; false
+D. Semua jawaban benar; false

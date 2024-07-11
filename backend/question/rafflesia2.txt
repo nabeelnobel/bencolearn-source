@@ -1,0 +1,23 @@
+question. Nama bunga rafflesia yg dikenal sebagai bunga rafflesia yang paling cantik
+A. Rafflesia patma Blume; false
+B. Rafflesia hasseltii Suringar; true
+C. Rafflesia bengkuluensis; false
+D. Rafflesia atjehensis Koorders; false
+
+question. Apa warna helai perigon Rafflesia Bengkuluensis
+A. merah bata, dengan bercak berwarna orange muda; true
+B. merah maron, terdapat bercak putih yang lebar; false
+C. oranye tua sampai coklat kemerahan; false
+D. oranye tua, dengan bercak bulat yang berukuran sama; false
+
+question. Siapa yang pertama kali menemukan rafflesia berjenis R. Patma Blume
+A. Thomas Stamford Raffles; false
+B. Joseph Arnold; false
+C. Louis Auguste Deschamp; true
+D. Odoardo Beccari;  false 
+
+question. Ciri khas helai perigon bunga rafflesia tuan mudae beccari
+A. oranye tua atau merah bata, dengan bercak berwarna orange muda; false
+B. merah maron, terdapat bercak putih yang lebar; false
+C. oranye tua sampai coklat kemerahan;  false
+D. merah maron atau oranye tua, dengan bercak bulat yang berukuran sama; true

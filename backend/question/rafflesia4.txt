@@ -1,0 +1,23 @@
+question. Berapa jenis rafflesia yang ada di Sumatera?
+A. 25; false
+B. 16; false
+C. 12; false
+D. 10; true
+
+question. Jenis rafflesia apa yang di jumpai di CA Batang palupuh, sumatera Barat?
+A. Rafflesia Arnoldi; false
+B. Rafflesia tuan-mudae; true
+C. Rafflesia Bengkuluensis; false
+D. Rafflesia Atjehensis; false
+
+question. Dibawah ini merupakan jenis rafflesia yang terdapat di Jawa, kecuali..
+A. R. Rochusseni; false
+B. R. Patma; false
+C. R. Zollingeriana; false
+D. R. Lawangensis; true
+
+question. Jenis rafflesia yang di temukan di tanjung Datu adalah
+A. R. Zollingeriana; false
+B. R. Hasselti; true
+C. R. Rochusseni; false
+D. R. Patma; false

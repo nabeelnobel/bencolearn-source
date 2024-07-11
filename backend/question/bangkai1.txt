@@ -1,0 +1,23 @@
+question. Apa nama latin dari bunga bangkai?
+A. Amorphophallus Titanum; true
+B. Rafflesia Arnoldi; false
+C. Rafflesia Titanium; false
+D. Amorphophallus Giga; false
+
+question. Siapa penemu bunga ini?
+A. Albert Einstein; false
+B. Thomas Stamford Raffles; false
+C. Dr. Odoardo; true
+D. Joseph Arnold; false
+
+question. Dimana persebaran alami bunga ini?
+A. Danau Jawa; false
+B. Sungai Bengkulu; false
+C. Hutan Bengkulu; true
+D. Hutan Maluku; false
+
+question. Berapa waktu yang dibutuhkan bunga ini untuk berbunga?
+A. 20-40 tahun; true
+B. 50 tahun; false
+C. 10 tahun; false
+D. 40-50 tahun; false

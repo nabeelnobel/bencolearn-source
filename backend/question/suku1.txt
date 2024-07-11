@@ -1,0 +1,23 @@
+question. Suku apa kedua terbesar di bengkulu? 
+a. rejang; false
+b. lembak; false
+c. serawai; true
+d. pekal; false
+
+question. Siapa leluhur yang menjadi asal dari suku Serawai?
+a. Si pahit lidah; true
+b. Kamanippah; false
+c. Tuanku Pangeran Mangkuraja; false
+d. Rakyat kerajaan gedung agung bengkulu selatan; false
+
+question. Mata pencarian utama dari suku serawai adalah
+a. berdagang; false
+b. nelayan; false
+c. bertani; true
+d. menambang; false
+
+question. Berikut ini persebaran dari suku serawai adalah
+a. taba penanjung; false
+b. kaur; false
+c. selupu rejang; false 
+d. seluma; true

@@ -1,0 +1,29 @@
+question. Suku Enggano mendiami pulau Enggano yang terdapat di porovinsi Bengkulu dekat ?
+A. barat daya; true
+B. timur laut; false
+C. utara; false
+D. selatan; false
+
+question. Berapakah populasi suku ini
+A. 2961; false
+B. 2691; true
+C. 3691; false
+D. 3961; false
+
+question. Enggano berasal dari bahasa
+A. Jawa; false
+B. Inggris; false
+C. Portugis; true
+D. Jerman; false
+
+question. Apa pengertian dari kata Enggano 
+A. Menyesal; false
+B. Kecewa; true
+C. Benar; false
+D. Baik; false
+
+question. Keunikan pulau Enggano yaitu memiliki banyak
+A. Terumbu karang; true
+B. Rumput laut; false
+C. Ikan; false
+D. Cumi cumi; true

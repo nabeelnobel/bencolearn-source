@@ -1,0 +1,29 @@
+question. Mengapa beruang madu mendapat julukan sunbear?
+A. Karena beruang madu merupakan hewan berdarah panas; false
+B. Karena beruang madu memiliki corak kuning di dadanya; true
+C. Karena beruang madu senang berjemur dibawah sinar matahari; true
+D. Semuanya benar; true
+
+question. Berapa lama beruang madu mengandung?
+A. 46 hari; false
+B. 96 hari; true
+C. 108 hari; false
+D. 110 hari; false
+
+question. Berikut ini fakta mengenai beruang madu, kecuali
+A. beruang madu merupakan hewan monogami; false
+B. Beruang madu merupakan  salah satu hewan yang agresif; false
+C. Beruang madu mencapai kematangan seksual berumur 5-6 tahun; true
+D. beruang madu mencari makan pada malam hari; false
+
+question. Pada umur berapa beruang madu mencapai kematangan seksual?
+A. 3-4 tahun; true
+B. 5-6 tahun; false
+C. 7-8 tahun; false
+D. 2-3 tahun; false
+
+question. Mengapa beruang madu dijuluki sebagai beruang anjing?
+A. Karena tubuhnya yang pendek; false
+B. Karena beruang madu adalah hewan yang setia; false
+C. Karena beruang madu memiliki gigi tajam dan rahang yang kuat untuk menyerang; false
+D.  karena perawakan mereka yang berotot, telinga kecil, dan moncong yang pendek; true

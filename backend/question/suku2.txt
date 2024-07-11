@@ -1,0 +1,29 @@
+question. Daerah yang banyak dihuni dengan suku lembak yaitu
+a. Lampung; false
+b. Sumatra Selatan; false
+c. Bengkulu; true
+d. Jambi; false
+
+question. Kebanyakan masyarakat memanggil orang suku lembak sebagai
+a. wong dusun; false
+b. wong kite; false
+c. orang lembak; false
+d. orang linggau; true
+
+question. Suku lembak sering disamakan dengan suku 
+a. rejang; false
+b. serawai; false
+c. pekal; false
+d. melayu; true
+
+question. Suku lembak di bedakan menjadi 
+a. 4; false
+b. 3; true
+c. 2; false
+d. 5; false
+
+question. Berikut yang bukan jenis dari suku lembak adalah
+a. lembak bulang; false
+b. lembak beliti; false
+c. lembak lantun; true
+d. lembak lapan; false

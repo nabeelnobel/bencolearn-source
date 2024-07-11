@@ -1,0 +1,23 @@
+question. Apa warna kulit biji R. Patma ketika sudah matang?
+A. Coklat kehitaman; false
+B. Coklat terang; true
+C. Merah maron; false
+D. Merah bata; false
+
+question. Bagaimana tekstur daging buah R. Patma dan R. Arnoldi ketika masih muda?
+A. Kaku seperti pepaya mentah, rasanya sepat, agak pahit; true
+B. Seperti pulp berwarna kecoklatan; false
+C. Teksturnya keras, agak kaku, dan memiliki warna yang lebih gelap; false
+D. Teksturnya lembut dan berwarna lebih terang; false
+
+question. Apa fungsi pori pada selaput pembungkus?
+A. Sebagai jalan keluar masuknya udara; false
+B. Untuk menyerap zat hara dan unsur unsur pembangun lainnya; false
+C. Sebagai pelindung kedua yg berperan menyeleksi molekul yang masuk; true
+D. Untuk menyerap air; false
+
+question. Biji rafflesia berukuran sangat kecil atau dikenal sebagai..
+A. Microgreen; false
+B. Lodoicea; false
+C. Orchidaceae; false
+D. Microseed; true

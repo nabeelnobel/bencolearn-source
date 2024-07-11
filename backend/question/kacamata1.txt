@@ -1,0 +1,23 @@
+question. Burung kacamata Enggano merupakan salah satu jenis burung endemik dari pulau…
+a. Enggano; true
+b. Tikus; false 
+c. Merbau; false 
+d. Sumatra; false
+
+question. Apa nama latin dari burung Kacamata Enggano?
+a. Paradisaeidae; false 
+b. Columba livia; false 
+C. Zosterrops Salvadorii Meyer; true
+D. Zosterops palpebrosus; false
+
+question. Apa bahasa inggris dri burung Kacamata Enggano?
+a. Peacock; false 
+b. Pleci; true
+c. Crow; false 
+d. ostrich; false
+
+question. Burung Kacamata Enggano merupakan jenis burung yang berasal dari famili…
+a. Zosteropidae; true
+b. Phasianidae; false 
+C. Merbah; false 
+D. Corvidae; false 

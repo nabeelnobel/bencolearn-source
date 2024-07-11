@@ -1,0 +1,29 @@
+question. Tari tabut dibawa pertama kali oleh india yang berasal dari 
+a. iran; false
+b. irak; true
+c. irlandia; false
+d. afghanistan; false
+
+question. Pada tahun berapa india membawa tradisi tabut
+a. 1336 M; true
+b. 1336 SM; false
+c. 1633 M; false
+d. 1363 SM; false
+
+question. Ada 3 properti penting dalam tabut, kecuali
+a. coki coki; false 
+b. jari jari; false
+c. berendo merah; true
+d. miniatur tabut; false
+
+question. Alat musik dol hampir mirip dengan alat musik
+a. beduk; true
+b. gendang; false
+c. kendang; false
+d. tifa; false
+
+question. Tahap ke tujuh pada tari tabut adalah gam yang artinya 
+a. sunyi; false 
+b. hening; false
+c. diam; false
+d. tenang; true

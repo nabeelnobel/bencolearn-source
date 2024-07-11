@@ -1,0 +1,23 @@
+question. Berikut ini fakta mengenai bunga rafflesia, kecuali
+A. rafflesia di juluki sebagai bunga bangkai karena memiliki organ yang busuk; false
+B. rafflesia memiliki 1 organ kelamin; false 
+C. rafflesia memiliki 2 organ kelamin; true
+D. Bentuk buah berkisar 12-15 cm tiap butirnya; false
+
+question. Apa tujuan dihasilkannya aroma busuk
+A. Untuk mengusir serangga dan hama; false 
+B. Menarik perhatian lalat yang membantu dalam proses pembuahan; true
+C. Melindungi dari ancaman predator; false
+D. Untuk menarik perhatian kupu-kupu yang membantu dalam proses pembuahan; false
+
+question. Hewan yang membantu dalam proses penyebaran benih adalah
+A. Tikus hutan dan tupai; true
+B. Lalat dan kupu-kupu; false
+C. Ulat dan cacing; false
+D. Semua jawaban salah; false
+
+question. Proses penyerbukan dibantu oleh
+A. Lalat dan serangga; true
+B. Tikus hutan; false
+C. Tupai; false
+D. Semua jawaban benar; true

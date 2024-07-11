@@ -1,0 +1,36 @@
+{
+  "name": "next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next dev",
+    "lint": "next lint",
+    "ngrok": "ngrok http 3000"
+  },
+  "dependencies": {
+    "@headlessui/react": "^1.7.10",
+    "@next/font": "13.1.1",
+    "daisyui": "^2.50.0",
+    "framer-motion": "^8.5.5",
+    "gsap": "^3.11.4",
+    "howler": "^2.2.3",
+    "lottie-web": "^5.10.1",
+    "next": "13.1.1",
+    "next-pwa": "^5.6.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-jigsaw-puzzle": "^1.0.4",
+    "react-youtube": "^10.1.0",
+    "sass": "^1.57.1",
+    "scss": "^0.2.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "concurrently": "^7.6.0",
+    "ngrok": "^4.3.3",
+    "postcss": "^8.4.20",
+    "tailwindcss": "^3.2.4"
+  }
+}

@@ -1,0 +1,23 @@
+question. Siapa yang yang menjadi inspirasi dari pemberian nama benteng malborough?
+a. Joseph Collett; false
+b. John Churchill; true
+c. John Collett; false
+d. Justin; false
+
+question. Berapa lama pembangunan benteng malborough
+a. 3 tahun; false
+b. 7 tahun; false
+c. 5 tahun; true
+d. 6 tahun; false
+
+question. Pembuatan benteng malborough dilakukan oleh rakyat Bengkulu yang di pimpin oleh
+a. Joseph Collett; true
+b. John Churchill; false
+c. John Collett; false
+d. Justin; false 
+
+question. Kedatangan bangsa Inggris pertama kali di Bengkulu pada tahun
+a. 1714; false
+b. 1618; false
+c. 1784; false
+d. 1685; true

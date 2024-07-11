@@ -1,0 +1,29 @@
+question. Kisah lalan belek menceritakan tentang bidadari yang kehilangan 
+a. gelang; false
+b. kekuatan; false 
+c. mahkota; false
+d. selendang; true
+
+question. Pada busana pria sebaiknya menggunakan celana 
+a. dasar hitam; true
+b. levi’s hitam; false
+c. dasar dongker; false
+d. celana kerut hitam; false
+
+question. Seluruh penari dari tari lalan belek berjumlah
+a. 7; false
+b. 8; true
+c. 6; false
+d. 9; false
+
+question. Tari andun berasal dari cerita
+a. kerajaan; true
+b. perebutan tahta; false
+c. fantasi; false
+d. peperangan; false
+
+question. sarung lipat biasanya terbuat dari kain songket yang di letakkan di 
+a. pada tangan seperti digandeng; false
+b. bahu dengan cara menyimpang; false 
+c. dililitkan pada pinggang; true
+d. digunakan untuk penutup kepala; false 

@@ -1,0 +1,23 @@
+question. Lemea terbuat dari?
+A. bambu muda yang dicincang dan dicampur ikan air tawar; true
+B. Ikan air tawar yang diasap; false
+C. Daging ikan hiu yang dicampur dengan rempah; false
+D. Semua jawaban salah; false
+
+question. Berapa banyak waktu yang dibutuhkan dalam proses pengeraman adonan rebung dan ikan?
+A. 7 hari; false
+B. 5 hari; false
+C. 3 hari; true
+D. 2 hari; false
+
+question. Mengapa lemea memiliki aroma yang tidak sedap?
+A. Karena menggunakan ikan yang sudah busuk; false
+B. Karena efek dari pembusukan dari ikan yang dicampur dengan rebung; true
+C. Karena menggunakan bahan bahan yang tidak segar; false
+D. Semua jawaban benar; false
+
+question. Lemea merupakan makanan khas dari suku?
+A. Asmat; false
+B. Rejang; true
+C. Bugis; false
+D. Serawai; false

@@ -1,0 +1,29 @@
+question. Bengkulu dalam bahasa inggris di sebut?
+A. Bangkahulu; false
+B. Bencoolen; true
+C. Benkoelen; false
+D. Bangculone; false
+
+question. Kerajaan selebar berada di?
+A. Pondok kelapa; false
+B. Pesisir sungai manna; false
+C. Lebak; false
+D. Pelabuhan pulau baai dan jenggalu; true 
+
+question. Akhir abad XV, kerajaan di bengkulu khususnya direjang lebong dipimpin oleh para biksu. di bawah pengaruh kerajaan?
+A. Sriwijaya; false
+B. Majapahit; true
+C. Kutai; false
+D. Mataram kuno; false
+
+question. VOC mendarat dan sampai di kerajaan Selebar pada tahun?
+A. 1624; true
+B. 1644; false
+C. 1924; false
+D. 1944; false
+
+question. VOC mendirikan pos perdagangan di kerajaan selebar pada tahun?
+A. 1643; false
+B. 1633; true
+C. 1933; false
+D. 1943; false

@@ -1,0 +1,23 @@
+question. Siapa penemu bunga Rafflesia Arnoldi?
+A. Thomas Stamford Raffles; false
+B. Joseph Arnold; true
+C. Louis Auguste Deschamp; false
+D. Odoardo; false
+
+question. Pada tahun berapa bunga Rafflesia Arnoldi ditemukan?
+A. 1818; true
+B. 1980; false
+C. 1918; false
+D. 1808; false
+
+question. Dimana Rafflesia Arnoldi Ditemukan?
+A. Bengkulu; true
+B. Sumatera Barat; false
+C. Sumatera Selatan; false
+D. Kalimantan Barat; false
+
+question. Dimana lokasi penemuan Rafflesia Arnoldi?
+A. Pulau Baai; false
+B. Pondok kelapa; false
+C. Pulo Lebbar; true
+D. Enggano; false
